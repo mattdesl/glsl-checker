@@ -1,6 +1,6 @@
 {
   "name": "glsl-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "repeating checker GLSL pattern",
   "main": "index.js",
   "license": "MIT",
