@@ -1,0 +1,36 @@
+{
+  "name": "glsl-checker",
+  "version": "1.0.0",
+  "description": "repeating checker GLSL pattern",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "glsl",
+    "glslify",
+    "glslb.in",
+    "checker",
+    "checkered",
+    "background",
+    "texture",
+    "repeat",
+    "repeating"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/glsl-checker.git"
+  },
+  "homepage": "https://github.com/mattdesl/glsl-checker",
+  "bugs": {
+    "url": "https://github.com/mattdesl/glsl-checker/issues"
+  }
+}
