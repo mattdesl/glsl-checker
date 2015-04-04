@@ -4,6 +4,8 @@
 
 ![img](http://i.imgur.com/NWzvJmm.png)
 
+[(glslb.in demo)](http://glslb.in/s/6fe45d18)
+
 GLSL utility for checkered patterns.
 
 ```glsl
